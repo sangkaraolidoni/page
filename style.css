@@ -77,9 +77,7 @@ nav {
   }*/
 
   .sticky {
-    position: fixed;
-    top: 0;
-    width:97.3%;
+    
   }
   
   .sticky + .content {
